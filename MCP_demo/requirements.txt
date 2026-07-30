@@ -4,3 +4,4 @@ ipykernel
 mcp
 langgraph
 python-dotenv
+langchain-google-genai

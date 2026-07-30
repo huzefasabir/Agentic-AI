@@ -1,4 +1,5 @@
 from mcp.server.fastmcp import FastMCP
+
 mcp = FastMCP("Weather")
 
 @mcp.tool()
